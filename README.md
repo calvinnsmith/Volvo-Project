@@ -1,5 +1,6 @@
 # Project with Volvo Cars
 
+### Project description
 This project consists of a student groups work with a problem provided
 by Volvo Cars. The considered problem is an open set recognition problem for
 neural networks (NN). Volvo has a NN that is supposed to get data from two
@@ -18,5 +19,10 @@ that does not directly use distance in feature space as means for classification
 It is proposed that further work investigates methods that use deeper layers
 from the NN or mappings of the feature space to enable identification of OOD
 data points.
-2
 
+
+#### Link to the [report](https://github.com/calvinnsmith/Volvo-Project/blob/main/volvo_project/report%20and%20presentation/ProjectCourse_VOLVO_report.pdf)
+
+#### Link to the [presentation](https://github.com/calvinnsmith/Volvo-Project/blob/main/volvo_project/report%20and%20presentation/VOLVO2_presentation.pdf)
+
+#### Link to my [Code](https://github.com/calvinnsmith/Volvo-Project/tree/main/volvo_project/code)
