@@ -25,4 +25,4 @@ data points.
 
 #### Link to the [presentation](https://github.com/calvinnsmith/Volvo-Project/blob/main/volvo_project/report%20and%20presentation/VOLVO2_presentation.pdf)
 
-#### Link to my [Code](https://github.com/calvinnsmith/Volvo-Project/tree/main/volvo_project/code)
+#### Link to my [code](https://github.com/calvinnsmith/Volvo-Project/tree/main/volvo_project/code)
